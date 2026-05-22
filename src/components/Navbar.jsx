@@ -64,7 +64,7 @@ function Navbar() {
 
             {/* Full Number Always */}
             <span className="text-[14px] sm:text-[17px] leading-none">
-              +1(888)769–0872
+              +1(888)769–7852
             </span>
           </button>
 
