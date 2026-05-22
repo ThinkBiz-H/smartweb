@@ -1,6 +1,6 @@
 import { ShieldCheck, EyeOff, BellRing } from "lucide-react";
 
-import securityImg from "../assets/hero.png";
+import securityImg from "../assets/security-shield.png";
 
 function SecuritySection() {
   return (

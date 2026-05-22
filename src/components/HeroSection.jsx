@@ -1,4 +1,4 @@
-import heroImg from "../assets/hero.png";
+import heroImg from "../assets/hero-main.png";
 
 function HeroSection() {
   return (
@@ -75,7 +75,6 @@ function HeroSection() {
         </div>
       </div>
     </section>
-    
   );
 }
 

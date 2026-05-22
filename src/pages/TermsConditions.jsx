@@ -194,7 +194,7 @@ function TermsConditions() {
               </p>
 
               <div className="space-y-3 text-lg text-gray-300">
-                <p>Phone: +1(888) 769–0872</p>
+                <p>Phone: +1(888) 769–7852</p>
                 <p>Availability: 24/7 Expert Support</p>
               </div>
             </div>

@@ -1,6 +1,6 @@
 import { Shield, ShieldCheck, Grid2x2, Headphones } from "lucide-react";
 
-import serviceImg from "../assets/hero.png";
+import serviceImg from "../assets/swap-exchange.png";
 
 function ServicesSection() {
   return (

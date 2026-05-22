@@ -1,6 +1,5 @@
 import { Folder } from "lucide-react";
-
-import platformImg from "../assets/hero.png";
+import platformImg from "../assets/four.jpg";
 
 function PlatformsSection() {
   const platforms = [

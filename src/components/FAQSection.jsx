@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
-import faqImg from "../assets/hero.png";
+import faqImg from "../assets/wallet-recovery.png";
 
 function FAQSection() {
   const faqs = [

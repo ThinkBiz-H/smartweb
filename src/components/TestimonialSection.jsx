@@ -1,5 +1,5 @@
 import { Star, Quote } from "lucide-react";
-import testimonialImg from "../assets/hero.png";
+import testimonialImg from "../assets/crypto-raw1.svg";
 
 function TestimonialSection() {
   const testimonials = [

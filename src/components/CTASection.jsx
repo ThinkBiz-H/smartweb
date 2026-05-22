@@ -1,4 +1,4 @@
-import heroImg from "../assets/hero.png";
+import heroImg from "../assets/cta-illustration.png";
 
 function CTASection() {
   return (

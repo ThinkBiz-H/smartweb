@@ -19,11 +19,13 @@ function ConsultationPopup() {
   });
 
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setShowPopup(true);
-    }, 3000);
+    setShowPopup(true);
 
-    return () => clearTimeout(timer);
+    const interval = setInterval(() => {
+      setShowPopup(true);
+    }, 5000);
+
+    return () => clearInterval(interval);
   }, []);
 
   const handleChange = (e) => {
@@ -81,9 +83,12 @@ function ConsultationPopup() {
               Get Free Consultation
             </h2>
 
-            <span className="text-white text-3xl leading-none cursor-default">
+            <button
+              onClick={() => setShowPopup(false)}
+              className="text-white text-3xl leading-none hover:scale-110 transition"
+            >
               ×
-            </span>
+            </button>
           </div>
 
           {/* FORM */}

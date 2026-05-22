@@ -1,5 +1,5 @@
 import { CheckCircle2 } from "lucide-react";
-import walletImg from "../assets/hero.png";
+import walletImg from "../assets/wallet-recovery.png";
 
 function WalletRecoverySection() {
   return (

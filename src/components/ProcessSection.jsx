@@ -1,6 +1,6 @@
 import { FileText, ShieldCheck, Settings, CheckCircle2 } from "lucide-react";
 
-import stepImg from "../assets/hero.png";
+import stepImg from "../assets/crypto-raw2.svg";
 
 function ProcessSection() {
   return (

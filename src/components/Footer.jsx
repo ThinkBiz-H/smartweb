@@ -1,5 +1,4 @@
 import { Phone, Clock3 } from "lucide-react";
-import logo from "../assets/hero.png";
 
 function Footer() {
   return (
@@ -19,7 +18,7 @@ function Footer() {
         <div className="grid md:grid-cols-3 gap-16 py-24">
           {/* LEFT */}
           <div>
-            <img src={logo} alt="logo" className="w-[180px]" />
+            <img src="/logo1.png" alt="logo" className="w-[180px]" />
 
             <p className="text-[#8b98b7] text-lg leading-9 mt-10 max-w-[400px]">
               Your trusted partner in digital asset security and recovery.
@@ -66,7 +65,7 @@ function Footer() {
               <div className="flex items-center gap-4 text-[#8b98b7] text-lg">
                 <Phone className="w-5 h-5 text-cyan-400" />
 
-                <span>+(888)769—0872</span>
+                <span>+(888)769—7852</span>
               </div>
 
               {/* SUPPORT */}

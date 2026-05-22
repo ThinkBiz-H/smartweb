@@ -279,7 +279,7 @@ const sections = [
           contact us.
         </p>
 
-        <p className="text-cyan-400">Phone: +1(888)769—0872</p>
+        <p className="text-cyan-400">Phone: +1(888)769—7852</p>
 
         <p>Response Time: We aim to respond within 48 hours.</p>
       </>

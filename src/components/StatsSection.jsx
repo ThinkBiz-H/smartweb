@@ -53,7 +53,7 @@ function StatsSection() {
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(0,174,255,0.15),transparent_65%)]"></div>
 
         <div className="max-w-7xl mx-auto px-6 py-24 relative z-10">
-          <div className="grid md:grid-cols-4 items-center">
+          <div className="grid md:grid-cols-3 items-center">
             {/* STAT 1 */}
             <div className="text-center">
               <h2 className="text-[80px] font-bold leading-none">10M+</h2>
@@ -82,13 +82,13 @@ function StatsSection() {
             </div>
 
             {/* IMAGE */}
-            <div className="flex justify-center mt-10 md:mt-0">
+            {/* <div className="flex justify-center mt-10 md:mt-0">
               <img
                 src="https://smartwalletmanagement.com/assets/img/about/about-3.png"
                 alt="wallet"
                 className="w-[220px]"
               />
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
